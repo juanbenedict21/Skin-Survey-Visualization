@@ -4,9 +4,9 @@ A data visualization project that analyzes skincare survey data to identify patt
 
 ## Dashboard Preview
 
-![Skin Survey Visualization 1](Screenshot%202026-10-09%2002606.png)
+![Skin Survey Visualization 1](Screenshot%202026-10-09%20002606.png)
 
-![Skin Survey Visualization 2](Screenshot%202026-10-09%2002619.png)
+![Skin Survey Visualization 2](Screenshot%202026-10-09%20002619.png)
 
 ## Project Files
 
